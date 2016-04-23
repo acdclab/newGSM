@@ -1,0 +1,9 @@
+UseSerialDebug
+
+KEYWORD1	newGSM
+KEYWORD2	ATtest
+KEYWORD2	begin
+KEYWORD2	call
+KEYWORD2	SendTextMessage
+KEYWORD2	turnOff
+KEYWORD2	
